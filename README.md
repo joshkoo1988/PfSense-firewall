@@ -1,7 +1,7 @@
-<h1>PfSense Firewall</h1>
+<h1>Home Network Setup</h1>
 
 <h2>Description</h2>
-In depth walkthrough of how I setup and configure my PfSense firewall and managed switch for my LAN network
+In Depth walk through of my entire home network.
 <br />
 
 
