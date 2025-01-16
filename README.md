@@ -6,7 +6,7 @@ In Depth walk through of my entire home network.
 
 
 <h2>Hardware</h2>
-- <b>Kamrui Mini PC with 4 port NIC</b>
+- <b>VNOPN Micro Firewall</b>
 - <b>Managed Switch</b>
 
 <h2>Router & Firewall</h2>
