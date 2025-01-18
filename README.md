@@ -14,7 +14,7 @@ Bellow you will find the step by step process I took to create and configure my 
 - <b>acme</b>
 - <b>pihole</b>
 - <b>haproxy</b>
-- <b>Ppia vpn</b>
+- <b>pia vpn</b>
 
 <h2>Domain & internet security</h2>
 - <b>GoDaddy domain</b>
